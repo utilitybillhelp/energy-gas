@@ -1,0 +1,11 @@
+Project: Utility Billing Help (Informational)
+
+Purpose:
+Independent informational resource explaining general utility billing topics
+and phone-based assistance context.
+
+Note:
+This website does not represent any utility provider and does not process payments.
+
+Tone:
+Neutral • Factual • Non-promotional
